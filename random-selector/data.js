@@ -1,5 +1,5 @@
 let images = new Array(
-    "random-selector/images/拉麵.jpg",
-    "random-selector/images/滷肉飯.jpg",
-    "random-selector/images/水餃.jpg"
+    "random-selector/images/kobe.jpg",
+    "random-selector/images/lebron.jpg",
+    "random-selector/images/stephen.jpg"
 );
